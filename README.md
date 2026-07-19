@@ -108,7 +108,7 @@ src
 Clonar el repositorio
 
 ```bash
-git clone https://github.com/usuario/tetris.git
+git clone https://github.com/DamaBeth/tetris-game.git
 ```
 
 Entrar al proyecto
